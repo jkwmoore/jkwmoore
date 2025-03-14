@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on: [Our newest HPC cluster, Stanage.](https://docs.hpc.shef.ac.uk/en/latest/stanage/cluster_specs.html)
 - 💬 Ask me about: **High Performance Computing**
-
 - 📄 Find me on LinkedIn **https://www.linkedin.com/in/jkwmoore/**
+- 🗞️ Read about what I've been up to on my blog **https://blog.jkwmoore.dev/**
 
 <div> <a href="https://twitter.com/@DrJKWMoore" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jkwmoore" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
