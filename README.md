@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A Senior Research Platforms engineer working at IT Services at the University of Sheffield</h3>
+<h3 align="center">A HPC Engineer at X-ISS</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkwmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jkwmoore" /> </p>
 
-- 🔭 I’m currently working on: [Our newest HPC cluster, Stanage.](https://docs.hpc.shef.ac.uk/en/latest/stanage/cluster_specs.html)
+- 🔭 I’m currently working on: [HPC clusters at X-ISS.]([https://docs.hpc.shef.ac.uk/en/latest/stanage/cluster_specs.html](https://x-iss.com/))
 - 💬 Ask me about: **High Performance Computing**
 - 📄 Find me on LinkedIn **https://www.linkedin.com/in/jkwmoore/**
 - 🗞️ Read about what I've been up to on my blog **https://blog.jkwmoore.dev/**
