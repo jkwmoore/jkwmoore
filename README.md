@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A HPC Engineer at X-ISS</h3>
+<h3 align="center">A HPC Engineer at X-ISS / NAG</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkwmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jkwmoore" /> </p>
 
 - 🔭 I’m currently working on: [HPC clusters at X-ISS.](https://x-iss.com/)
