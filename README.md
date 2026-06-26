@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A HPC Engineer at X-ISS / NAG</h3>
+<h3 align="center">A HPC Linux Operations Engineer at Jump Trading</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkwmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jkwmoore" /> </p>
 
-- 🔭 I’m currently working on: [HPC clusters at X-ISS.](https://x-iss.com/)
+- 🔭 I’m currently working on: [HPC at Jump Trading.](https://www.jumptrading.com/)
 - 💬 Ask me about: **High Performance Computing**
 - 📄 Find me on LinkedIn **https://www.linkedin.com/in/jkwmoore/**
 - 🗞️ Read about what I've been up to on my blog **https://blog.jkwmoore.dev/**
